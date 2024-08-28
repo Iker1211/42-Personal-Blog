@@ -5,7 +5,7 @@ html, body {
 
 body {
     height: 100vh;
-    background-image: url(/assets/bgImages/bg.jpg);
+    background-image: url("/assets/bgImages/bg.jpg");
     font-family: "Roboto", sans-serif;
 }
 
